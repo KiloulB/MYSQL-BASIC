@@ -13,12 +13,12 @@ Als het goed is heb je Xampp al geinstalleerd en weet je hoe je de database serv
 
 ## Leerdoelen
 
-1. [ ] Ik kan via het Xampp Controlepaneel de MySQL database server opstarten
-2. [ ] Ik kan via het Xampp Controlepaneel de Apache web server opstarten
-3. [ ] Ik kan PhpMyAdmin openen in een browser
-4. [ ] Ik kan een export van een database importeren in een nieuwe database in PhpMyAdmin.
-5. [ ] Ik kan een SQL query uitvoeren in PhpMyAdmin
-6. [ ] Ik kan een uitgevoerde SQL query bookmarken in PhpMyAdmin
+1. [X] Ik kan via het Xampp Controlepaneel de MySQL database server opstarten
+2. [X] Ik kan via het Xampp Controlepaneel de Apache web server opstarten
+3. [X] Ik kan PhpMyAdmin openen in een browser
+4. [X] Ik kan een export van een database importeren in een nieuwe database in PhpMyAdmin.
+5. [X] Ik kan een SQL query uitvoeren in PhpMyAdmin
+6. [X] Ik kan een uitgevoerde SQL query bookmarken in PhpMyAdmin
 
 ## Opdracht
 
